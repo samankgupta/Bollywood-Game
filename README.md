@@ -1,6 +1,6 @@
 # Bollywood Game 🎞️
 
-<img src="images/game.png" alt="Bollywood Game">
+<img src="images/game.PNG" alt="Bollywood Game">
 
 ## Abstract
 
@@ -21,7 +21,7 @@ This project is made using **C++**.
 
 ## Installation
 
-Clone the repository to your system and run the bollywoodgame.cpp file on codeblocks IDE.
+Clone the repository to your system and run bollywoodgame.cpp file on codeblocks IDE.
 
 ## Flowchart
 
